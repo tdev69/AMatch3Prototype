@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a4f91c8b2e9da40bda0dd4b4b70521, type: 3}
+  m_Name: State Dictionary
+  m_EditorClassIdentifier: Assembly-CSharp::SOStateDictionary
+  theStates:
+  - nameOfState: 0
+    aState: {fileID: 11400000, guid: b4f9cdabc33f52b458569b2810f09d01, type: 2}
+  - nameOfState: 1
+    aState: {fileID: 0}
+  - nameOfState: 2
+    aState: {fileID: 11400000, guid: 4651575bdfb10b7439a80ccaed42b500, type: 2}
+  - nameOfState: 3
+    aState: {fileID: 11400000, guid: e3619fae525347543b742a9d37f3da14, type: 2}
+  - nameOfState: 4
+    aState: {fileID: 11400000, guid: 0d39e8ff370ce9846986d948a53d4f97, type: 2}
+  - nameOfState: 5
+    aState: {fileID: 11400000, guid: 60a5b41802f3f6e4285ee04b12336d0f, type: 2}
+  - nameOfState: 6
+    aState: {fileID: 11400000, guid: 973cec564f223ca4abf51db9db42c37b, type: 2}
+  - nameOfState: 7
+    aState: {fileID: 11400000, guid: 389c0796fccd6ac45954e97e246a5faf, type: 2}

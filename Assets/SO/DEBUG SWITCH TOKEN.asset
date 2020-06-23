@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 759d5983078bdd5479a3f1e8bb257e97, type: 3}
+  m_Name: DEBUG SWITCH TOKEN
+  m_EditorClassIdentifier: 
+  statesDictionary: {fileID: 11400000, guid: b9c3686e91122c34695ee41d62d18339, type: 2}
+  wantedToken: 3
+  finished: 1
